@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Umegiri
-- 👀 I’m interested in Vue.js/Javascript/Typescript
-- 🌱 I’m currently learning Vue.js/React.js
+- 👀 Vue.js/Javascript/Typescript
 
 <!---
 Umegiri/Umegiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
